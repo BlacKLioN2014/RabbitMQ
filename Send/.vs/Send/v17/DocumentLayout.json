@@ -1,0 +1,48 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ismael\\Desktop\\RabbitMQ\\Send\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{229020A8-4B21-4774-BD1F-06084675C4E8}|..\\Send_Two\\Send_Two.csproj|c:\\users\\ismael\\desktop\\rabbitmq\\send_two\\sendtwo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 665,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SendTwo.cs",
+              "DocumentMoniker": "C:\\Users\\Ismael\\Desktop\\RabbitMQ\\Send_Two\\SendTwo.cs",
+              "RelativeDocumentMoniker": "..\\Send_Two\\SendTwo.cs",
+              "ToolTip": "C:\\Users\\Ismael\\Desktop\\RabbitMQ\\Send_Two\\SendTwo.cs",
+              "RelativeToolTip": "..\\Send_Two\\SendTwo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T19:45:00.043Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
